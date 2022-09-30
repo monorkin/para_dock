@@ -2,6 +2,9 @@
 
 Para Dock is a modular dock for the SteamDeck that can support most USB-C hubs.
 
+![The Para Dock holding a SteamDeck](./images/demo.png)
+![The Para Dock at an angle](./images/angle_view.png)
+
 ## Hub support
 
 The Para Dock comes in two parts - a base SteamDeck dock and a hub cradle.
