@@ -20,10 +20,29 @@ Out of the box this dock comes with cradles for:
 
 The latest STL and 3MF files are in the [`/out` directory](./out/).
 
+The material you print this out of should have decent heat resistance -
+like PETG or resins - as the SteamDeck can get hot enough to soften PLA.
+
+Layer height isn't important - 0.3mm is more than fine.
+
+You should use at least 3 (ideally 4) perimeters and 5% infill to make the part
+sturdy.
+
 ## Contributing
 
 If you want to add a cradle for your USB-C hub please open up a poll request
 with the cradle added to the project file.
+
+### Making a cradle for your USB-C hub
+
+Here are the basic measurements needed to create your own cradle.
+
+These are measurements of the Dock because the tolerances for each cradle vary
+based on the mounting method and printer used.
+
+For tuned FDM printers a tolerance of 0.15mm give a tight fit.
+
+![Schematics of the top and back side of the dock](./images/sch.svg)
 
 ## Why FreeCAD
 
